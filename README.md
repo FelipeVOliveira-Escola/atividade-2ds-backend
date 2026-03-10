@@ -1,4 +1,4 @@
-<h1 align="center"> 📌 Atividade 2DS Back-End </h1>
+  <h1 align="center"> 📌 Atividade 2DS Back-End </h1>
 
 <br>
 
@@ -12,8 +12,10 @@ O objetivo do projeto é demonstrar como estruturar uma boa documentação inici
 ---
 
 ## 🚧 Status do Projeto
-- [ ] Em desenvolvimento  
-- [X] Finalizado  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge" alt="Status Finalizado">
+</div>
 
 ---
 
