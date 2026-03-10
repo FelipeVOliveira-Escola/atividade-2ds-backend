@@ -8,15 +8,13 @@ O objetivo do projeto é demonstrar como estruturar uma boa documentação inici
 **Público-alvo:** Este projeto foi criado para estudantes e desenvolvedores que desejam aprender a documentar seus sistemas adequadamente. *(Desafio concluído!)*
 
 ## 🚧 Status do Projeto
-( ) Em desenvolvimento  
-(X) Finalizado  
+(X) Em desenvolvimento  
+( ) Finalizado  
 
 ## 🔨 Funcionalidades
 - Apresentar as informações principais de um repositório.
 - Documentar o status e o objetivo do sistema.
 - Listar as tecnologias e ferramentas utilizadas.
-- **Utilizar formatação Markdown para organizar o texto.** *(Funcionalidade extra 1)*
-- **Facilitar o entendimento do código para outros programadores.** *(Funcionalidade extra 2)*
 
 ## 💻 Tecnologias Utilizadas
 - Markdown
